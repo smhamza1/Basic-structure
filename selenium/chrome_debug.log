@@ -1,0 +1,6 @@
+[19597:19597:0612/215714.977254:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+[19557:19557:0612/215714.986116:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[19557:19557:0612/215715.210044:INFO:CONSOLE(31)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: chrome://resources/roboto/roboto-regular.woff2", source: chrome://new-tab-page/ (31)
+[19598:19614:0612/215724.027448:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[19598:19614:0612/215724.027571:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[19557:19557:0612/215724.044252:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <listeners>
+        <listener class-name="utility.ListenerClass"></listener>
+    </listeners>
+<!--    <parameter name="browser" value="Chrome"></parameter>-->
+<!--      <parameter name="browser" value="${browser.chrome}"></parameter>-->
+<!--    <parameter name="login_url" value="${lo gin.url}"></parameter> -->
+    <parameter name="browser" value="Chrome"></parameter>
+    <parameter name="login_url" value="https://www.google.com"></parameter>
+    <parameter name="school_url" value="${school.url}"></parameter>
+
+    <test thread-count="5" name="Test">
+        <groups>
+            <run>
+                <include name="SMOKE"></include>
+            </run>
+        </groups>
+        <classes>
+
+            <class name="testcases_Admin.Login"/>
+
+        </classes>
+    </test> <!-- Test -->
+
+
+</suite>

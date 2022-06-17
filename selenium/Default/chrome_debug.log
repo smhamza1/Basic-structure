@@ -1,0 +1,6 @@
+[0527/120941.693670:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[0527/120945.644859:INFO:CONSOLE(1)] "Error during service worker registration: [object DOMException]", source: https://qa.perfectdaylive.com/static/js/main.46e4e814.chunk.js (1)
+[0527/120946.116661:INFO:CONSOLE(1)] "An error occurred while retrieving token.  FirebaseError: Messaging: The notification permission was not granted and blocked instead. (messaging/permission-blocked).", source: https://qa.perfectdaylive.com/static/js/main.46e4e814.chunk.js (1)
+[0527/120949.911189:INFO:CONSOLE(2)] "Pusher Web Push Notifications supports Chrome, Firefox, Edge and Opera.", source: https://qa.perfectdaylive.com/static/js/6.21e0a915.chunk.js (2)
+[0527/120949.912984:INFO:CONSOLE(1)] "Successfully registered with Beams. Device ID: null", source: https://qa.perfectdaylive.com/static/js/main.46e4e814.chunk.js (1)
+[0527/120949.915340:INFO:CONSOLE(0)] "Error: Could not add Device Interest. SDK not registered with Beams. Did you call .start?", source:  (0)

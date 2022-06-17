@@ -1,0 +1,15 @@
+how do youu do smoke test for login page which has username , password, ok, and cancel buttons.
+
+Smoke Testing is a positive test & so there should be
+following 2 test cases:
+1. It should checks that user is able to login with valid
+credentials.
+2. User should remain on the login page & any data entered
+by the user is removed when he clicks on Cancel button.
+
+
+git stash
+git pull origin main
+git stash pop
+git add .
+
